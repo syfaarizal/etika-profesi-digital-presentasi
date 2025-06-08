@@ -34,7 +34,6 @@ Saya mempresentasikan dan menjelaskan materi secara mandiri, sekaligus mendesain
 | `thumbnail.jpg` | Gambar cover video |
 | `slide-etika-profesi.pdf` | Slide PDF presentasi |
 | `README.md` | Dokumentasi proyek |
-| *(optional)* `script.txt` | Kalau kamu mau upload transkrip atau narasi |
 </code></pre>
 
 ## ✨ Kenapa Ini Layak Masuk Portofolio?
